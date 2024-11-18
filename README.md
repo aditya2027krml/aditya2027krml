@@ -1,3 +1,4 @@
+![Logo](https://github.com/aditya2027krml/aditya2027krml/blob/main/Green%20Simple%20Manager%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
