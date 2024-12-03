@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-<img align="center" alt="coding" width=300 src="https://i.pinimg.com/originals/bf/0a/20/bf0a20cc7873ddc0d85cfbfd0db5860f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya2027krml&label=Profile%20views&color=0e75b6&style=flat" alt="aditya2027krml" /> </p>
 
