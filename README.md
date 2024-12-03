@@ -1,4 +1,5 @@
-![Logo](https://i.pinimg.com/736x/0e/38/05/0e38050ecad8f15970456e09d560adbe.jpg)
+![Logo](![Green Simple Minimalist Elegant Personal Vlog Youtube Banner](https://github.com/user-attachments/assets/e1d47701-2803-4671-a5f7-7a7bbeed34e3)
+
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
